@@ -10,7 +10,8 @@
 # 📊 github stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmterdm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmterdm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmterdm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmterdm&theme=dark&hide_border=false&include_private=true&token=GH_TOKEN)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
